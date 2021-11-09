@@ -75,6 +75,6 @@ Pronto, você já tem um cluster criado
 
 # Links Úteis
 
-* [K3S.io](#https://k3s.io)
-* [K3S Rancher](#https://rancher.com/docs/k3s/latest/en/)
-* [Github K3S](#https://github.com/k3s-io/k3s)
+* [K3S.io](https://k3s.io)
+* [K3S Rancher](https://rancher.com/docs/k3s/latest/en/)
+* [Github K3S](https://github.com/k3s-io/k3s)
